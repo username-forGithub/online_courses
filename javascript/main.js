@@ -48,7 +48,7 @@ const arr = [
 let htmlstring = '';
 arr.forEach((item) => {
   let string = `
-            <div class="mentor-item ">
+            <div class="mentor-item ${item.id}">
                 <div class="inner-wrapper">
                     <img class="chess" src="img/chess.jpg" alt="">
                     <div class="left"><img src="${item.image}" alt=""></div>

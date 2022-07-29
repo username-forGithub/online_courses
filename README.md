@@ -62,7 +62,7 @@ npx eslint .
 ```
 
 ## Visit My GitHub Page
- **_Live demo_** https://username-forgithub.github.io/my_portfolio
+ **_Live demo_** https://username-forgithub.github.io/online_courses/
 
 ## Author
 👤 **Bakhtiyor Yusubaliyev**
@@ -80,7 +80,7 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
+- Cindy Shin the author of the [original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)  
 - Google.com
 - Github.com
 

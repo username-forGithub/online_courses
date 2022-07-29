@@ -119,6 +119,10 @@ nav li a {
   color: #272a31;
 }
 
+nav li a.active{
+  color: ##ec5242;
+}
+
 .courses a {
   color: #d3d3d3;
   font-family: "L-reg", sans-serif;

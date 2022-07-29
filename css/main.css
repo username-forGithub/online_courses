@@ -1051,7 +1051,7 @@ footer .text-wrapper {
     color: #272a31;
   }
   
-  footer.about-footer a.left{
+  footer.about-footer a.left .text-wrapper{
     color: #fff;
   }
 

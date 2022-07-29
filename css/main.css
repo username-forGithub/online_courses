@@ -533,7 +533,7 @@ footer .logo-wrapper img {
   margin-left: 15px;
 }
 
-footer .left {
+footer a.left {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

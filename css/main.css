@@ -1050,6 +1050,10 @@ footer .text-wrapper {
     margin-right: 15px;
     color: #272a31;
   }
+  
+  footer.about-footer .left{
+    color: #fff;
+  }
 
   .section1 {
     padding-bottom: 60px;

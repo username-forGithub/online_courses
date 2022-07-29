@@ -544,6 +544,10 @@ footer a.left {
   color: #272a31;
 }
 
+footer a.left .text-wrapper {
+  color: #ffffff;
+}
+
 footer .right {
   font-family: "L-bold", sans-serif;
   display: -webkit-box;

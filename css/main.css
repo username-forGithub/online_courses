@@ -548,8 +548,12 @@ footer a.left {
   color: #272a31;
 }
 
-footer a.left .text-wrapper {
+footer .indexfooter a.left .text-wrapper {
   color: #ffffff;
+}
+
+footer a.left .text-wrapper {
+  color: #272a31;
 }
 
 footer .right {
